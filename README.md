@@ -64,22 +64,10 @@ Full-stack hospital management platform with authentication and database integra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayyan-kra&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Rayyan-kra&theme=github-dark-blue"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-kra&layout=compact&theme=github_dark"/>
-
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rayyan-kra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rayyan-kra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rayyan-kra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 <!-- Snake Game Repo View -->
@@ -87,12 +75,6 @@ Full-stack hospital management platform with authentication and database integra
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rayyan-kra&theme=tokyonight&row=1&column=7"/>
-
----
 
 ## ✨ Quote
 
